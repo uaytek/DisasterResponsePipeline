@@ -41,12 +41,12 @@ To run ML pipeline that trains classifier and saves python models/train_classifi
 Run the following command in the app's directory to run your web app. python run.py
 
 ## Required packages:
-nltk
-pickle
-flask
-joblib
-pandas
-plot.ly
-numpy
-scikit-learn
-sqlalchemy
+- nltk
+- pickle
+- flask
+- joblib
+- pandas
+- plot.ly
+- numpy
+- scikit-learn
+- sqlalchemy
